@@ -8,3 +8,6 @@ Also I want to learn how to use git
 To Add all files we can use git add -A
 
 Lets change something
+
+If next time you cant push to remote then use below command
+git config --global http.sslverify false
