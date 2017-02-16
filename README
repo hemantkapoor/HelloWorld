@@ -11,3 +11,10 @@ Lets change something
 
 If next time you cant push to remote then use below command
 git config --global http.sslverify false
+
+To commit changes to server 
+git push origin master
+
+But if this the first time and you have not cloned then
+
+git remote add origin https://github.com/hemantkapoor/helloWorld.git
